@@ -1,4 +1,4 @@
-MODEL TINY
+.MODEL TINY
 .DOSSEG
 .DATAMSG 
     DB "Hello, World!", 0Dh, 0Ah, '$'
